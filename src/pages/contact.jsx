@@ -40,36 +40,33 @@ const Contact = () => {
 
 					<div className="contact-container">
 						<div className="title contact-title">
-							Let's Get in Touch: Ways to Connect with Me
+							Connect With Me
 						</div>
 
 						<div className="subtitle contact-subtitle">
-							Thank you for your interest in getting in touch with
-							me. I welcome your feedback, questions, and
-							suggestions. If you have a specific question or
-							comment, please feel free to email me directly at
-							&nbsp;{" "}
+							Thank you for your interest in reaching out. Whether you have feedback, questions, or ideas, I'm here to listen. To get in touch directly, drop me an email at{" "}
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
 							</a>
-							. I make an effort to respond to all messages within
-							24 hours, although it may take me longer during busy
-							periods. Alternatively, you can use the contact form
-							on my website to get in touch. Simply fill out the
-							required fields and I'll get back to you as soon as
-							possible. Finally, if you prefer to connect on
-							social media, you can find me on{" "}
+							, and I'll respond within 24 hours. If you prefer, you can use the contact form on my website. Fill in the required fields, and I'll get back to you promptly. You can also connect with me on{" "}
 							<a
-								href={INFO.socials.instagram}
+								href={INFO.socials.linkedin}
 								target="_blank"
 								rel="noreferrer"
 							>
-								{INFO.socials.instagram}
-							</a>
-							. I post regular updates and engage with my
-							followers there, so don't hesitate to reach out.
-							Thanks again for your interest, and I look forward
-							to hearing from you!
+								LinkedIn
+							</a>{" "}
+							for updates and discussions. Also, feel free to explore my GitHub repository at{" "}
+							<a
+								href={INFO.socials.github}
+								target="_blank"
+								rel="noreferrer"
+							>
+								GitHub
+							</a>{" "}
+							to see my projects and contributions. I'm excited to hear from you and collaborate on meaningful endeavors!
+
+							Looking forward to connecting!
 						</div>
 					</div>
 

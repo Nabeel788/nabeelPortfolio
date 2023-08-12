@@ -13,6 +13,7 @@ const INFO = {
 		instagram: "https://www.instagram.com/programming_with_kashif/",
 		stackoverflow: "https://stackoverflow.com/users/15375297/muhammad-kashif-bhatti",
 		facebook: "https://www.facebook.com/Kashifrb163/",
+		whatsapp: "https://wa.me/+923075196247",
 	},
 
 	homepage: {
@@ -35,48 +36,58 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Student Interacton Assessment System (SIAS)",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				`SIAS is an E-learning website where students can take video lectures and the system analyzes their attentiveness lectures. Its a fusion of Web development (HTML, CSS, MySQL and PHP) and Machine learning (Tensorflow.js, openCV.js and media pipe.js)`,
+			logo: "https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			gitText: "View Code",
+			gitLink: "https://github.com/Mkashif163/siasPHP",
+			link: "https://github.com/Mkashif163/siasPHP",
 		},
 
 		{
-			title: "Project 2",
+			title: "Ecommerce",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"I individually developed functional e-commerce platform using MERN stack - React, Tailwind CSS, Redux Toolkit, MongoDB. Managedproduct, payments, authentication, order, and email integration with Stripe",
+			logo: "https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952odw68vfy4itr72e5mw0u65id1sf87jwaa7ro83o5&ep=v1_stickers_related&rid=giphy.gif&ct=s",
 			linkText: "View Project",
-			link: "https://github.com",
+			gitText: "View Code",
+			gitLink: "https://github.com/Mkashif163/Ecommerce",
+			link: "https://ecommerce-bay-sigma.vercel.app/",
 		},
 
 		{
-			title: "Project 3",
+			title: "Kmovies",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+			logo: "https://storage.googleapis.com/replit/images/1656965795504_877781587fcd68268d9f524b3e0dda8a.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			gitText: "View Code",
+			gitLink: "https://github.com/Mkashif163/movieFlex",
+			link: "https://movie-flex-beta.vercel.app/",
 		},
 
 		{
 			title: "Project 4",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Developed a fully functional Blog Site using Node.js and Express. Created a seamless user experience with dynamic rendering of blog posts. Integrated MongoDB for efficient data storage and retrieval",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			gitText: "View Code",
+			gitLink: "https://github.com/Mkashif163/blogsite",
+			link: "https://github.com/Mkashif163/blogsite",
 		},
 
 		{
-			title: "Project 5",
+			title: "Note-Taking Application (Keeper)",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Designed and developed a user-friendly Note Taking Application using React.js. Enabled dynamic management and updating of note data with React’s useState hook. Ensured responsive design for optimal user experience on various devices.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			gitText: "View Code",
+			gitLink: "https://github.com/Mkashif163/keeper",
+			link: "https://keeper-nu.vercel.app/",
 		},
 	],
 };
