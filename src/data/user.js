@@ -39,7 +39,7 @@ const INFO = {
 			title: "Student Interacton Assessment System (SIAS)",
 			description:
 				`SIAS is an E-learning website where students can take video lectures and the system analyzes their attentiveness lectures. Its a fusion of Web development (HTML, CSS, MySQL and PHP) and Machine learning (Tensorflow.js, openCV.js and media pipe.js)`,
-			logo: "https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png",
+			logo: "https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/php.gif",
 			linkText: "View Project",
 			gitText: "View Code",
 			gitLink: "https://github.com/Mkashif163/siasPHP",
@@ -69,10 +69,10 @@ const INFO = {
 		},
 
 		{
-			title: "Project 4",
+			title: "Blog Site",
 			description:
 				"Developed a fully functional Blog Site using Node.js and Express. Created a seamless user experience with dynamic rendering of blog posts. Integrated MongoDB for efficient data storage and retrieval",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif",
 			linkText: "View Project",
 			gitText: "View Code",
 			gitLink: "https://github.com/Mkashif163/blogsite",
@@ -83,7 +83,7 @@ const INFO = {
 			title: "Note-Taking Application (Keeper)",
 			description:
 				"Designed and developed a user-friendly Note Taking Application using React.js. Enabled dynamic management and updating of note data with React’s useState hook. Ensured responsive design for optimal user experience on various devices.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952odw68vfy4itr72e5mw0u65id1sf87jwaa7ro83o5&ep=v1_stickers_related&rid=giphy.gif&ct=s",
 			linkText: "View Project",
 			gitText: "View Code",
 			gitLink: "https://github.com/Mkashif163/keeper",
