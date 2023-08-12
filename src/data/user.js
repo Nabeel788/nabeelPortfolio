@@ -60,7 +60,7 @@ const INFO = {
 		{
 			title: "Kmovies",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Experience movieFlex 🎬: A Next.js app fueled by the Netflix API. Discover trending movies and TV shows, explore genres, and access detailed info. Your gateway to cinematic delights!",
 			logo: "https://storage.googleapis.com/replit/images/1656965795504_877781587fcd68268d9f524b3e0dda8a.png",
 			linkText: "View Project",
 			gitText: "View Code",
