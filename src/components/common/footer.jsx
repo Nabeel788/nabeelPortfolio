@@ -29,7 +29,7 @@ const Footer = () => {
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2023 Tharindu.dev. All Rights Reserved.
+						© 2023 Muhammad Kashif. All Rights Reserved.
 					</div>
 				</div>
 			</div>
